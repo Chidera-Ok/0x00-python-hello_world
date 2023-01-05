@@ -1,5 +1,5 @@
 IMPORT
-	>>> add_integer = __import__('0-add_integer').add_integer
+		>>> add_integer = __import__('0-add_integer').add_integer
 
 TESTS
 
@@ -20,6 +20,7 @@ Test3: Add two strings
         Traceback (most recent call last):
         ...
         TypeError: a must be an integer
+
 Test4: Add one int and one float
         >>> add_integer(7, 20.8)
         27
