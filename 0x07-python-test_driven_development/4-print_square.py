@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 """[a function that prints a square with the character #]"""
 
+
 def print_square(size):
     """print a square of #'s
-    
+
     Arguments:
         size {[int]} -- [description]
     """

@@ -4,7 +4,7 @@
 
 def matrix_divided(matrix, div):
     """[divides all elements of a matrix]
-    
+
     Arguments:
         matrix {[lis]} -- [description]
         div {[type]} -- [description]
